@@ -8,5 +8,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Khanh1998's github stats](https://github-readme-stats.vercel.app/api?username=khanh1998&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanh1998&layout=compact)
+![Khanh1998's github stats](https://github-readme-stats.vercel.app/api?username=uss-kelvin&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uss-kelvin&layout=compact)
